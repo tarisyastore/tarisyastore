@@ -14823,14 +14823,9 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
    }, gT),
    V = rE(yT),
    vT = [{
-      title: "About Me",
-      description: "About me.",
-      url: "https://aryashop.vercel.app",
-      icon: "🫧"
-   }, {
       title: "Owner Tarisya",
       description: "Owner Number.",
-      url: "https://wa.me/6282264605530",
+      url: "https://wa.me/6285392240145",
       icon: "🌷"
    }, {
       title: "My Instagram",
@@ -14849,7 +14844,7 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
       icon: "🎀"
    },{
       title: "Channel Telegram",
-      description: "Join to my group for free bot",
+      description: "Join to my Channel On Telegram",
       url: "https://t.me/paideditbytarisyaaa",
       icon: "🧸"
    },{
@@ -14860,8 +14855,8 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
    }, {
       title: "Currently Playing",
       isSpotify: !0,
-      songTitle: "Fly To The Moon",
-      artist: "Joo Won Shin",
+      songTitle: "LOve Story",
+      artist: "Indilia",
       albumArt: "https://files.catbox.moe/hy5etu.jpg",
       url: "https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7?si=c8Mqb649QceJL8emMGbOGQ",
       preview: "https://files.catbox.moe/2apykt.mp3"
