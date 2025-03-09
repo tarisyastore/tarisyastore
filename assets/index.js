@@ -14823,11 +14823,6 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
    }, gT),
    V = rE(yT),
    vT = [{
-      title: "About Me",
-      description: "About Me.",
-      url: "https://tarisyastore.vercel.app/",
-      icon: "🌷"
-   },{
       title: "Owner Tarisya",
       description: "Owner Number.",
       url: "https://wa.me/6282191310415",
