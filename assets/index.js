@@ -9069,7 +9069,7 @@ const W2 = () => x.jsx("div", {
       }), x.jsxs("h1", {
          className: "text-lg font-bold mt-2",
          children: ["Tarisya Store. ", x.jsx($2, {
-            className: "inline text-pink-500"
+            className: "inline text-purple-500"
          })]
       }), x.jsx("p", {
          className: "text-blue-400 text-xs",
@@ -14823,6 +14823,11 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
    }, gT),
    V = rE(yT),
    vT = [{
+      title: "About Me",
+      description: "About Me.",
+      url: "https://tarisyastore.vercel.app/",
+      icon: "🌷"
+   },{
       title: "Owner Tarisya",
       description: "Owner Number.",
       url: "https://wa.me/6282191310415",
