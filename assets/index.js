@@ -19606,25 +19606,28 @@ const ik = () => {
          })]
       })
    },
-   Sl = "6282264605530",
+   Sl = "62853922401450",
    ok = [{
       id: 1,
       name: "PAID EDIT",
       price: "Rp 00,-",
       category: "Paid Edit",
-      description: "Paid Edit"
+      description: "Paid Edit",
+      image: "https://files.catbox.moe/3l85xa.jpg"
    }, {
       id: 2,
       name: "STARLIGHT",
       price: "Rp 00,-",
       category: "Starlight",
-      description: "Starlight MLBB"
+      description: "Starlight MLBB",
+      image: "https://files.catbox.moe/3l85xa.jpg"
    },{
       id: 3,
       name: "WDP",
       price: "Rp 00,-",
       category: "Wdp Mobile Legend",
-      description: "Wdp Mobile Legend"
+      description: "Wdp Mobile Legend",
+      image: "https://files.catbox.moe/3l85xa.jpg"
    }],
    sk = () => {
       const e = t => {
@@ -19661,7 +19664,7 @@ const ik = () => {
                   duration: .5,
                   delay: .2
                },
-               children: "Welcome to Arya Shop this a digital collection"     
+               children: "Welcome to Tarisya Store this a digital collection"     
             }), x.jsx(V.p, {
                className: "text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto",
                initial: {
@@ -19674,7 +19677,7 @@ const ik = () => {
                   duration: .5,
                   delay: .3
                },
-               children: "Selamat berbelanja di Arya Shop, Silahkan pilih pesanan anda dan akan di teruskan ke whatsapp. Thankyou and Happy Shopping!!!."
+               children: "Selamat berbelanja di Tarisya Store, Silahkan pilih pesanan anda dan akan di teruskan ke whatsapp. Thankyou and Happy Shopping!!!."
             })]
          }), x.jsx(V.div, {
             className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8",
