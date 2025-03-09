@@ -9092,7 +9092,7 @@ const W2 = () => x.jsx("div", {
       }),  x.jsxs("div", {
          className: "flex justify-center gap-4 mt-4 text-xl text-gray-400",
          children: [x.jsx("a", {
-            href: "https://github.com/AryaMarket",
+            href: "https://chat.whatsapp.com/GrAGOYUsYJsJOfVdHPF8yt",
             target: "_blank",
             rel: "noopener noreferrer",
             className: "text-zinc-400 hover:text-zinc-100 transition-colors",
