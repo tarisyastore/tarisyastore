@@ -14862,9 +14862,9 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
       isSpotify: !0,
       songTitle: "Fly To The Moon",
       artist: "Joo Won Shin",
-      albumArt: "https://files.catbox.moe/8ob4kv.jpg",
-      url: "https://open.spotify.com/track/76UTJqRcTCTVAKKHpdc0XU?si=bFDbYsoXR02ninzsGLk22A",
-      preview: "https://files.catbox.moe/s2oncm.mp3"
+      albumArt: "https://files.catbox.moe/hy5etu.jpg",
+      url: "https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7?si=c8Mqb649QceJL8emMGbOGQ",
+      preview: "https://files.catbox.moe/2apykt.mp3"
    }],
    wT = () => {
       const [e, t] = h.useState(null), n = h.useRef(new Audio), r = (i, o, s) => {
@@ -14985,7 +14985,7 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
                   },
                   children: x.jsx(Rs, {
                      to: "/",
-                     className: "text-lg font-bold bg-gradient-to-r from-purple-600 to-pink-500 bg-clip-text text-transparent",
+                     className: "text-lg font-bold bg-gradient-to-r from-blue-600 to-purple-500 bg-clip-text text-transparent",
                      children: "Tarisya Store"
                   })
                }), x.jsxs("div", {
@@ -19609,53 +19609,22 @@ const ik = () => {
    Sl = "6282264605530",
    ok = [{
       id: 1,
-      name: "Ori Grup 30 Day",
-      price: "Rp 17.000",
-      category: "Sewa Grup",
-      description: "Sewa Grup",
-      image: "https://files.catbox.moe/h0tacj.jpg"
+      name: "PAID EDIT",
+      price: "Rp 00,-",
+      category: "Paid Edit",
+      description: "Paid Edit"
    }, {
       id: 2,
-      name: "Vip Grup 30 Day",
-      price: "Rp 27.000",
-      category: "Premium Grup",
-      description: "Premium Grup",
-      image: "https://files.catbox.moe/h0tacj.jpg"
+      name: "STARLIGHT",
+      price: "Rp 00,-",
+      category: "Starlight",
+      description: "Starlight MLBB"
    },{
       id: 3,
-      name: "Premium Nomor/Private Chat🌀",
-      price: "Rp 15.000",
-      category: "Premium Nomor 30 Day",
-      description: "Private Chat",
-      image: "https://files.catbox.moe/h0tacj.jpg"
-   }, {
-      id: 4,
-      name: "Ori Grup 15 Day",
-      price: "Rp 12.000",
-      category: "Sewa Grup",
-      description: "Sewa Grup",
-      image: "https://files.catbox.moe/h0tacj.jpg"
-   }, {
-      id: 5,
-      name: "Vip Grup 15 Day⚡",
-      price: "Rp20.000",
-      category: "Premium Grup",
-      description: "Premium Grup",
-      image: "https://files.catbox.moe/h0tacj.jpg"
-   },{
-      id: 6,
-      name: "Premium Nomor/Private Chat🌀",
-      price: "Rp 10.000",
-      category: "Premium Nomor",
-      description: "Premium Nomor 15 Day",
-      image: "https://files.catbox.moe/h0tacj.jpg"
-   }, {
-      id: 7,
-      name: "Scrip Elaina - MD📄",
-      price: "Rp50.000",
-      category: "Digital",
-      description: "Scrip Elaina",
-      image: "https://files.catbox.moe/h0tacj.jpg"
+      name: "WDP",
+      price: "Rp 00,-",
+      category: "Wdp Mobile Legend",
+      description: "Wdp Mobile Legend"
    }],
    sk = () => {
       const e = t => {
