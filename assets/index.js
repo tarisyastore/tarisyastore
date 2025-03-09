@@ -9068,7 +9068,7 @@ const W2 = () => x.jsx("div", {
          })]
       }), x.jsxs("h1", {
          className: "text-lg font-bold mt-2",
-         children: ["Arya Official. ", x.jsx($2, {
+         children: ["Tarisya Store. ", x.jsx($2, {
             className: "inline text-blue-500"
          })]
       }), x.jsx("p", {
@@ -14828,50 +14828,35 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
       url: "https://aryashop.vercel.app",
       icon: "🫧"
    }, {
-      title: "Owner Arya Official",
+      title: "Owner Tarisya",
       description: "Owner Number.",
       url: "https://wa.me/6282264605530",
-      icon: "☎"
+      icon: "🌷"
    }, {
-      title: "My YouTube",
-      description: "Subscribe For Support",
-      url: "https://youtube.com/@aryabr_24",
-      icon: "📟"
+      title: "My Instagram",
+      description: "Don't Forget To Follow",
+      url: "https://www.instagram.com/tarishaarisy?igsh=M25hbnc4eHR4dWhq",
+      icon: "🩰"
    }, {
       title: "My Tiktok",
       description: "Follow to support",
-      url: "https://www.tiktok.com/@arya.b_29",
-      icon: "🎶"
+      url: "https://www.tiktok.com/@syaa230501",
+      icon: "💐"
    },{
-      title: "My Room Chat Bot 1",
+      title: "Bot Hd Group",
       description: "Join to my group for free bot",
-      url: "https://chat.whatsapp.com/BgroRRmleSIKY3N66vyS9x",
-      icon: "🪸"
+      url: "https://chat.whatsapp.com/KDtjsr1OO6EDH5R7f8etyT",
+      icon: "🎀"
    },{
-      title: "My Room Chat Bot 2",
+      title: "Channel Telegram",
       description: "Join to my group for free bot",
-      url: "https://chat.whatsapp.com/FmqtGGzSoXl8mU5vsNSZiB",
-      icon: "🪸"
+      url: "https://t.me/paideditbytarisyaaa",
+      icon: "🧸"
    },{
       title: "My Store Group",
       description: "Join to my store group",
-      url: "https://chat.whatsapp.com/CMzuYOTdJaZFtWNArG7TGy",
-      icon: "🛒"
-   }, {
-      title: "Channel Whatsapp Arya Official",
-      description: "Find your online chat friends.",
-      url: "https://whatsapp.com/channel/0029VafvKzL2P59gzU6lGs0b",
-      icon: "🪪"
-   },{
-      title: "Channel Testimoni Arya Official",
-      description: "OUR TESTIMONI FOR YOU TRUST.",
-      url: "https://whatsapp.com/channel/0029VawCuhUEawdlYMv3ON03",
-      icon: "🪪"
-   }, {
-      title: "Provide Support",
-      description: "Give Snacks To Cherr Up.",
-      url: "https://files.catbox.moe/snq2w9.jpg",
-      icon: "🪫"
+      url: "https://chat.whatsapp.com/GrAGOYUsYJsJOfVdHPF8yt",
+      icon: "🧺"
    }, {
       title: "Currently Playing",
       isSpotify: !0,
@@ -15000,8 +14985,8 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
                   },
                   children: x.jsx(Rs, {
                      to: "/",
-                     className: "text-lg font-bold bg-gradient-to-r from-blue-600 to-red-500 bg-clip-text text-transparent",
-                     children: "Arya Shop"
+                     className: "text-lg font-bold bg-gradient-to-r from-purple-600 to-pink-500 bg-clip-text text-transparent",
+                     children: "Tarisya Store"
                   })
                }), x.jsxs("div", {
                   className: "flex items-center gap-4",
