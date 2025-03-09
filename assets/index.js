@@ -14825,7 +14825,7 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
    vT = [{
       title: "Owner Tarisya",
       description: "Owner Number.",
-      url: "https://wa.me/6285392240145",
+      url: "https://wa.me/6282191310415",
       icon: "🌷"
    }, {
       title: "My Instagram",
@@ -19601,7 +19601,7 @@ const ik = () => {
          })]
       })
    },
-   Sl = "62853922401450",
+   Sl = "6282191310415",
    ok = [{
       id: 1,
       name: "PAID EDIT",
