@@ -9069,7 +9069,7 @@ const W2 = () => x.jsx("div", {
       }), x.jsxs("h1", {
          className: "text-lg font-bold mt-2",
          children: ["Tarisya Store. ", x.jsx($2, {
-            className: "inline text-blue-500"
+            className: "inline text-pink-500"
          })]
       }), x.jsx("p", {
          className: "text-blue-400 text-xs",
@@ -14980,7 +14980,7 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
                   },
                   children: x.jsx(Rs, {
                      to: "/",
-                     className: "text-lg font-bold bg-gradient-to-r from-blue-600 to-purple-500 bg-clip-text text-transparent",
+                     className: "text-lg font-bold bg-gradient-to-r from-blue-600 to-pink-500 bg-clip-text text-transparent",
                      children: "Tarisya Store"
                   })
                }), x.jsxs("div", {
